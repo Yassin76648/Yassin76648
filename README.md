@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/Yassin-Shaaban" target="_blank"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="20px"/></a> <a href="https://github.com/YassinShaaban" target="_blank"><img align="left" alt="GitHub" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height="20px"/></a>
+<a href="https://www.linkedin.com/in/yassin-shaaban-7b1945342/" target="_blank"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="20px"/></a> <a href="https://github.com/Yassin76648" target="_blank"><img align="left" alt="GitHub" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height="20px"/></a>
 
 <br><br>
 
