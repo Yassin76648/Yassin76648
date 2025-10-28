@@ -21,9 +21,9 @@
 
 ### 🌱 Currently Learning
 
-* Advanced **Java** (OOP, Data Structures & Algorithms)
-* **JavaScript** fundamentals and DOM manipulation
-* Basics of **Web Security**
+* Python **Django Framework** 
+* **Linux Administration** fundamentals and DOM manipulation
+* Basics of **CyberSecurity**
 
 ---
 
