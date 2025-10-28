@@ -22,7 +22,7 @@
 ### 🌱 Currently Learning
 
 * Python **Django Framework** 
-* **Linux Administration** fundamentals and DOM manipulation
+* **Linux Administration** 
 * Basics of **CyberSecurity**
 
 ---
