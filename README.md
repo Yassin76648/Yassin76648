@@ -1,7 +1,6 @@
 
 ## Hey 👋, I'm **Yassin Shaaban**
 
-🎓 Student at **Sudan University of Science and Technology (SUST)**
 💻 Passionate about **Programming, Security, and Web Development**
 
 ---
