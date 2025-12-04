@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm **Yassin Shaaban**
 
-💻 Passionate about **Programming, Security, and Web Development**
+💻**Junior Backend Developer**
 
 ---
 
