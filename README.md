@@ -8,7 +8,7 @@
 ### 🧐 About Me
 
 * 👨‍💻 I study **Information Technology** at Sudan University of Science and Technology.
-* 🐍 I learned **Python** and built small projects like a *To-Do List App* and *Tic Tac Toe game*.
+* 🐍 I learned **Python** and built small projects.
 * 🌐 I also learned **HTML** and **CSS**, and currently exploring **JavaScript** to build complete web applications.
 * 🔒 Interested in **Cybersecurity**, I have knowledge of **Linux**, **Networking**, and fundamental security concepts.
 * 🚀 Always learning, experimenting, and improving my skills step by step.
