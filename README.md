@@ -8,10 +8,9 @@
 ### 🧐 About Me
 
 * 👨‍💻 I study **Information Technology** at Sudan University of Science and Technology.
-* 🧠 I started my programming journey with **Java**, my main language at university.
-* 🐍 I learned **Python** and built small projects like a *To-Do List App* and *Tic Tac Toe game* (without GUI).
+* 🐍 I learned **Python** and built small projects like a *To-Do List App* and *Tic Tac Toe game*.
 * 🌐 I also learned **HTML** and **CSS**, and currently exploring **JavaScript** to build complete web applications.
-* 🔒 Interested in **Cybersecurity**, I have basic knowledge of **Linux**, **Networking**, and fundamental security concepts.
+* 🔒 Interested in **Cybersecurity**, I have knowledge of **Linux**, **Networking**, and fundamental security concepts.
 * 🚀 Always learning, experimenting, and improving my skills step by step.
 
 ---
@@ -36,9 +35,12 @@
 
 ### 🧩 My Projects
 
-* 🗒️ **To-Do List App (Python)** – A simple CLI app to manage daily tasks.
-* ❌⭕ **Tic Tac Toe (Python)** – Classic two-player game built from scratch.
-* 🌐 **Personal Website (HTML, CSS)** – My first steps into frontend web design.
+* 🗒️ **To-Do List App (Python)** 
+* ❌⭕ **Tic Tac Toe (Python)**
+* 📅**Plan Generator (Python)** 
+* 🌐 **Personal Website (HTML, CSS, JS)** – My first steps into frontend web design.
+* 🤵**Basic CRM System** build with Django, Bootstrap, Mysql
+* 
 * 💡 *(More coming soon…)*
 
 ---
