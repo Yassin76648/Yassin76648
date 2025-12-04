@@ -10,7 +10,7 @@
 * 👨‍💻 I study **Information Technology** at Sudan University of Science and Technology.
 * 🐍 I learned **Python & Django Framework** and built small projects.
 * 🌐 I also learned **HTML** and **CSS**, and currently exploring **JavaScript** to build complete web applications.
-* 🔒 Interested in **Cybersecurity**, I have knowledge of **Linux**, **Networking**, and fundamental security concepts.
+* 🔒 Interested in **Cybersecurity**, I have knowledge of **Linux**,**Bash Scripting** **Networking**, and fundamental security concepts.
 * 🚀 Always learning, experimenting, and improving my skills step by step.
 
 ---
