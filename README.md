@@ -38,10 +38,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/></a>
+<!-- Linux (working version) -->
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
 
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"/></a>
-
+<!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height="42px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/></a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
 
 <br><br><br>
 
