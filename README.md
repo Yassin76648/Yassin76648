@@ -42,7 +42,7 @@
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
 
 <!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height="42px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height="38px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/></a>
 
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
