@@ -1,29 +1,19 @@
 
 ## Hey 👋, I'm **Yassin Shaaban**
 
-💻**Junior Backend Developer**
+👨‍💻**Junior Backend Developer**
+💻**Desktop Application Developer**
 
 ---
 
 ### 🧐 About Me
 
 * 👨‍💻 I study **Information Technology** at Sudan University of Science and Technology.
-* 🐍 I learned **Python & Django Framework** and built small projects.
-* 🌐 I also learned **HTML** and **CSS**, and currently exploring **JavaScript** to build complete web applications.
-* 🔒 Interested in **Cybersecurity**, I have knowledge of **Linux**,**Bash Scripting** **Networking**, and fundamental security concepts.
-* 🚀 Always learning, experimenting, and improving my skills step by step.
 
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🌱 Currently Learning
-
-* Python **Django Framework** 
-* **Linux Administration** 
-* Basics of **CyberSecurity**
-
----
 
 ### 🔨 Languages and Tools
 
@@ -50,16 +40,6 @@
 
 <br><br><br>
 
-
-### 🧩 My Projects
-
-* 🗒️ **To-Do List App (Python)** 
-* ❌⭕ **Tic Tac Toe (Python)**
-* 📅**Plan Generator (Python)** 
-* 🌐 **Personal Website (HTML, CSS, JS)** – My first steps into frontend web design.
-* 🤵**Basic CRM System** build with Django, Bootstrap, Mysql
-* 
-* 💡 *(More coming soon…)*
 
 ---
 
