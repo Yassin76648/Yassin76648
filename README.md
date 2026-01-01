@@ -34,16 +34,12 @@ I am a passionate developer focused on building efficient back-end systems and r
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin76648&layout=compact&theme=vision-glow&hide_border=true" alt="Top Languages" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Yassin76648&show_icons=true&theme=vision-glow&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yassin76648&theme=onestar&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yassin76648&theme=onestar&no-frame=true&column=4" alt="Trophies" />
-</div>
-
 ---
-
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/yassin-shaaban-7b1945342/" target="_blank">
