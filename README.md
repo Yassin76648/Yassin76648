@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=80&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
   
-  <h2>💻 BACKEND DEVELOPER</h2> <h2> | 🖥️ DESKTOP APP DEVELOPER</h2>
+  <h3>💻 BACKEND DEVELOPER</h3> <h3> | 🖥️ DESKTOP APP DEVELOPER</h3>
   
   <p><strong>Building robust logic and automated solutions for complex problems</strong></p>
 </div>
