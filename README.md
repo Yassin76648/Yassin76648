@@ -12,7 +12,7 @@
   <p><strong>BUILDING ROBUST LOGIC AND AUTOMATED SOLUTIONS FOR COMPLEX PROBLEMS</strong></p>
 </div>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📖 About Me
 I am a passionate developer focused on building efficient back-end systems and robust desktop applications that solve real-world problems.
