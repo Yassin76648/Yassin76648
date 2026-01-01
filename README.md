@@ -1,11 +1,10 @@
 <div align="center">
-  <h1>Hi ✋, I'm <ins>Yassin Shaaban</ins></h1>
-  <h3>🚀 Backend Developer | 💻 Desktop App Specialist | 🤖 Automation Enthusiast</h3>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Yassin76648&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=I'm+Yassin+Shaaban;Backend+Developer;Desktop+App+Developer;Automation+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
+
+---
 
 ---
 
