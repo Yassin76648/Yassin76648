@@ -18,9 +18,10 @@
 I am a passionate developer focused on building efficient back-end systems and robust desktop applications that solve real-world problems.
 * ⚡ Fun fact: I love turning manual tasks into "one-click" automated scripts.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🔨 Languages and Tools
 
