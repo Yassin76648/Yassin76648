@@ -3,15 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=70&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
 
-  <p align="center">
-    <font size="100" face="Fira Code" color="#A9AFF3">
-      <b>👨‍💻 Backend Developer | 💻 Desktop Application Developer</b>
-    </font>
-    <br>
-    <font size="10" face="Fira Code" color="#666">
-      <i>Building robust logic and automated solutions</i>
-    </font>
-  </p>
+<br>
+  <h2 align="center">💻 Backend Developer | 🖥️ Desktop App Developer</h2>
+  <h4 align="center"><i>"Building robust logic and automated solutions for complex problems"</i></h4>
 </div>
 
 ---
