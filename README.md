@@ -1,11 +1,14 @@
 <div align="center">
   <a href="https://github.com/Yassin76648">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=70&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=80&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
 
-<br>
-  <h2 align="center">💻 Backend Developer | 🖥️ Desktop App Developer</h2>
-  <h4 align="center"><i>"Building robust logic and automated solutions for complex problems"</i></h4>
+  <br>
+
+  <h1>💻 BACKEND DEVELOPER</h1>
+  <h1>🖥️ DESKTOP APP DEVELOPER</h1>
+  
+  <p><strong>Building robust logic and automated solutions for complex problems</strong></p>
 </div>
 
 ---
