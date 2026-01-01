@@ -20,8 +20,6 @@ I am a passionate developer focused on building efficient back-end systems and r
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
 ### 🔨 Languages and Tools
 
 <br>
