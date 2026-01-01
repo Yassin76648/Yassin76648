@@ -3,7 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=80&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
   
-  <h3>💻 Backend Developer </h3> <h3> | 🖥️ Desktop App Developer </h3>
+<h3>
+    <span style="color: #00D1FF;">💻 BACKEND DEVELOPER</span> 
+    <span style="color: #A9AFF3;"> | </span> 
+    <span style="color: #00FF9D;">🖥️ DESKTOP APP DEVELOPER</span>
+  </h3>
   
   <p><strong>Building robust logic and automated solutions for complex problems</strong></p>
 </div>
@@ -29,18 +33,6 @@ I am a passionate developer focused on building efficient back-end systems and r
 <br><br>
 
 ---
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin76648&layout=compact&theme=vision-glow&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassin76648&show_icons=true&theme=vision-glow&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Yassin76648&theme=onestar&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
----
-### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/yassin-shaaban-7b1945342/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
