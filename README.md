@@ -32,7 +32,7 @@ I am a passionate developer focused on building efficient back-end systems and r
 
 <br>
 
-<hr style="width: 50%; border: 1px solid #333;">
+<hr style="width: 20%; border: 1px solid #333;">
 
 ### 📫 Connect with Me
 
