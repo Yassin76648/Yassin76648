@@ -5,7 +5,7 @@
 
   <p align="center">
     <font size="5" face="Fira Code" color="#A9AFF3">
-      <b>Backend Developer | Desktop Application Developer</b>
+      <b>👨‍💻 Backend Developer | 💻 Desktop Application Developer</b>
     </font>
     <br>
     <font size="3" face="Fira Code" color="#666">
@@ -14,7 +14,6 @@
   </p>
 </div>
 
----
 ---
 
 ### 📖 About Me
