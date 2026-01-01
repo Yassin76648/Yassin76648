@@ -12,6 +12,7 @@
   <p><strong>BUILDING ROBUST LOGIC AND AUTOMATED SOLUTIONS FOR COMPLEX PROBLEMS</strong></p>
 </div>
 
+<p align="center"><font color="#444"><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font></p>
 <p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📖 About Me
