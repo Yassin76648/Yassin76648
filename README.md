@@ -12,13 +12,13 @@
   <p><strong>BUILDING ROBUST LOGIC AND AUTOMATED SOLUTIONS FOR COMPLEX PROBLEMS</strong></p>
 </div>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📖 About Me
 I am a passionate developer focused on building efficient back-end systems and robust desktop applications that solve real-world problems.
 * ⚡ Fun fact: I love turning manual tasks into "one-click" automated scripts.
 
-<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
