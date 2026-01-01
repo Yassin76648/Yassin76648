@@ -48,6 +48,6 @@ I am a passionate developer focused on building efficient back-end systems and r
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br>
+<br><br>
 
 > “Keep learning, stay consistent, and never stop building.”
