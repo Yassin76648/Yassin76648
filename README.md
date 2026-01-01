@@ -4,11 +4,11 @@
   </a>
 
   <p align="center">
-    <font size="10" face="Fira Code" color="#A9AFF3">
+    <font size="20" face="Fira Code" color="#A9AFF3">
       <b>👨‍💻 Backend Developer | 💻 Desktop Application Developer</b>
     </font>
     <br>
-    <font size="3" face="Fira Code" color="#666">
+    <font size="10" face="Fira Code" color="#666">
       <i>Building robust logic and automated solutions</i>
     </font>
   </p>
