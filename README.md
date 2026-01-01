@@ -36,6 +36,8 @@ I am a passionate developer focused on building efficient back-end systems and r
 
 ### 📫 Connect with Me
 
+<br>
+
 <a href="https://www.linkedin.com/in/yassin-shaaban-7b1945342/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
