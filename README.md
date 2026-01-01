@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=I'm+Yassin+Shaaban;Backend+Developer;Desktop+App+Developer;Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=100&lines=YASSIN+SHAABAN;BACKEND+DEVELOPER;DESKTOP+ARCHITECT;AUTOMATION+ENGINEER" alt="Yassin Shaaban Interactive Title" />
   </a>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9AFF3&center=true&vCenter=true&width=500&lines=Crafting+Robust+Logic+for+Complex+Problems;Building+Desktop+Solutions+with+Python+%26+Java" alt="Sub-specialization" />
+  </p>
 </div>
-
----
-
 ---
 
 ### 📖 About Me
