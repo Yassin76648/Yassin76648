@@ -1,12 +1,20 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=100&lines=YASSIN+SHAABAN;BACKEND+DEVELOPER;DESKTOP+ARCHITECT;AUTOMATION+ENGINEER" alt="Yassin Shaaban Interactive Title" />
+  <a href="https://github.com/Yassin76648">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=70&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9AFF3&center=true&vCenter=true&width=500&lines=Crafting+Robust+Logic+for+Complex+Problems;Building+Desktop+Solutions+with+Python+%26+Java" alt="Sub-specialization" />
+    <font size="5" face="Fira Code" color="#A9AFF3">
+      <b>Backend Developer | Desktop Application Developer</b>
+    </font>
+    <br>
+    <font size="3" face="Fira Code" color="#666">
+      <i>Building robust logic and automated solutions</i>
+    </font>
   </p>
 </div>
+
+---
 ---
 
 ### 📖 About Me
@@ -26,6 +34,20 @@ I am a passionate developer focused on building efficient back-end systems and r
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 <br><br>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin76648&layout=compact&theme=vision-glow&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassin76648&show_icons=true&theme=vision-glow&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yassin76648&theme=onestar&no-frame=true&column=4" alt="Trophies" />
+</div>
 
 ---
 
