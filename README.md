@@ -5,8 +5,8 @@
 ---
 
 ### 📖 About Me
-I am a passionate developer focused on building efficient back-end systems and robust desktop applications. I enjoy solving complex problems and building real-world systems.
-* ⚡ Fun fact: I love turning manual web tasks into "one-click" automated scripts.
+I am a passionate developer focused on building efficient back-end systems and robust desktop applications that solve real-world problems.
+* ⚡ Fun fact: I love turning manual tasks into "one-click" automated scripts.
 
 ---
 
@@ -32,7 +32,7 @@ I am a passionate developer focused on building efficient back-end systems and r
 <a href="https://github.com/Yassin76648" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="mailto:your-email@example.com">
+<a href="yassin.shaaban2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
