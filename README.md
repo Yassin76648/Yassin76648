@@ -1,6 +1,11 @@
-## Hey 👋, I'm **Yassin Shaaban**
-
-👨‍💻 **Backend Developer** | 💻 **Desktop Application Developer**
+<div align="center">
+  <h1>Hi ✋, I'm <ins>Yassin Shaaban</ins></h1>
+  <h3>🚀 Backend Developer | 💻 Desktop App Specialist | 🤖 Automation Enthusiast</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Yassin76648&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  </p>
+</div>
 
 ---
 
@@ -21,7 +26,6 @@ I am a passionate developer focused on building efficient back-end systems and r
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 <br><br>
-
 ---
 
 ### 📫 Connect with Me
