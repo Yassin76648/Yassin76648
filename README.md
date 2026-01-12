@@ -4,7 +4,7 @@
   </a>
   
   <h3>
-    <span style="color: #00D1FF;">💻 Backend Developer</span> 
+    <span style="color: #00D1FF;">💻 Python Backend Developer</span> 
     <span style="color: #A9AFF3;"> | </span> 
     <span style="color: #00FF9D;">🖥️ Desktop App Developer</span>
   </h3>
