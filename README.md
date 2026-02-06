@@ -9,7 +9,6 @@
     <span style="color: #00FF9D;">🖥️ Desktop App Developer</span>
   </h3>
   
-  <p><strong>Building robust logic and automated solutions for complex problems</strong></p>
 </div>
 
 ---
