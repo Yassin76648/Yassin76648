@@ -5,18 +5,16 @@
 <h1 align="center">Hi, I'm Yassin Shaaban <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">
-  <span style="color:#00D1FF;">💻 Python Backend Developer</span>
+  <span style="color:#00D1FF;">Python Backend Developer</span>
   <span style="color:#A9AFF3;"> | </span>
-  <span style="color:#00FF9D;">📊 Data Engineer in training</span>
+  <span style="color:#00FF9D;">Data Engineer </span>
 </h3>
 
 <ul>
-<li><p>🌱 I'm currently deep in a <strong>Big Data Engineering</strong> program — Hadoop, Spark, Kafka, Flink, Airflow, dbt &amp; cloud data warehousing</p></li>
 <li><p>👯 I'm looking to collaborate on <strong>data pipeline</strong> and <strong>Django backend</strong> projects</p></li>
 <li><p>🤝 I'm looking for help with <strong>real-world data engineering practices</strong> and <strong>API design</strong></p></li>
 <li><p>👨‍💻 All of my projects are available <a href="https://github.com/Yassin76648">@Yassin76648</a></p></li>
 <li><p>💬 Ask me about <strong>Python, Django, SQL &amp; ETL pipelines</strong></p></li>
-<li><p>⚡ Fun fact: <strong>I founded a university Python community to help others learn to code</strong></p></li>
 </ul>
 
 <hr>
