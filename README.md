@@ -6,7 +6,7 @@
   <a href="https://github.com/Yassin76648">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=80&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
-  <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  <img width="70px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </p>
 
 <h3 align="center">
@@ -21,7 +21,6 @@
 <li><p>🤝 I'm looking for help with <strong>real-world data engineering practices</strong> and <strong>API design</strong></p></li>
 <li><p>👨‍💻 All of my projects are available <a href="https://github.com/Yassin76648">@Yassin76648</a></p></li>
 <li><p>💬 Ask me about <strong>Python, Django, SQL &amp; ETL pipelines</strong></p></li>
-<li><p>⚡ Fun fact: <strong>I founded a university Python community to help others learn to code</strong></p></li>
 </ul>
 
 <p align="center">
@@ -56,7 +55,7 @@
 
 <h3 align="center">Cloud &amp; Hosting</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />    <img src="https://img.shields.io/badge/Microsoft%20Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
 </p>
 
 <h3 align="center">DevOps &amp; Tools</h3>
