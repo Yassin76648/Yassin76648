@@ -6,7 +6,7 @@
   <a href="https://github.com/Yassin76648">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&height=80&lines=YASSIN+SHAABAN" alt="Yassin Shaaban" />
   </a>
-  <img width="70px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  <img width="80px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </p>
 
 <h3 align="center">
