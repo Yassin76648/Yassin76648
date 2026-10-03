@@ -76,7 +76,7 @@
 **🎓 E-learning Platform**
 Python · Django · vanilla JS · SQLite
 Full-stack platform with user authentication, course enrollment, and a dynamic progress-tracking system for students.
-[View repo →](https://github.com/Yassin76648/e-learning-platform)
+[View repo →](https://github.com/Yassin76648/manhag)
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Full-stack platform with user authentication, course enrollment, and a dynamic p
 **📚 Library Management System**
 Python · Django · vanilla JS · SQLite
 Back-end system to manage books, categories, rentals, and sales, with an interactive dashboard for library statistics.
-[View repo →](https://github.com/Yassin76648/library-management-system)
+[View repo →](https://github.com/Yassin76648/Library-Management-System)
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Back-end system to manage books, categories, rentals, and sales, with an interac
 **📊 CRM Application**
 Python · Django · Bootstrap
 Full-stack CRM with user authentication, database models, and CRUD operations behind a responsive interface.
-[View repo →](https://github.com/Yassin76648/crm-application)
+[View repo →](https://github.com/Yassin76648/DCRM)
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ Full-stack CRM with user authentication, database models, and CRUD operations be
 **⚙️ Moodle Material Auto-Downloader**
 Python · Selenium
 Automation tool that one-click downloads all course materials from Moodle — built to solve a real pain point for classmates.
-[View repo →](https://github.com/Yassin76648/moodle-auto-downloader)
+[View repo →](https://github.com/Yassin76648/MoodleMaterialAuto-Downloader)
 
 </td>
 </tr>
