@@ -124,5 +124,5 @@ Automation tool that one-click downloads all course materials from Moodle — bu
 </p>
 
 <blockquote align="center">
-  “Keep learning, stay consistent, and never stop building.”
+  “Don't be so attached to who you currently are, that you don't give the future version of yourself a chance.”
 </blockquote>
