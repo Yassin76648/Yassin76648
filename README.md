@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-  <span style="color:#00D1FF;">Data Engineer</span>
+  <span style="color:#00D1FF;">Aspiring Data Engineer</span>
   <span style="color:#A9AFF3;"> | </span>
   <span style="color:#00FF9D;">Python Backend Developer</span>
 </h3>
